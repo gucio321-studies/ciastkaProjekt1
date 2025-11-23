@@ -29,7 +29,6 @@ jobs:
     - name: setup texlive
       uses: zauguin/install-texlive@v4
       with:
-        version: 2024
         packages: |
           # to list local packages use: tlmgr info --list --data name
           scheme-basic
