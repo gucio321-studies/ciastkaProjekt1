@@ -27,7 +27,7 @@ jobs:
         pip install -r requirements.txt
         pip install setuptools
     - name: setup texlive
-      uses: teatimeguest/setup-texlive-action@v3
+      uses: zauguin/install-texlive@v4
       with:
         version: 2024
         packages: |
