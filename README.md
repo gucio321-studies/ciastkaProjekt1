@@ -51,3 +51,6 @@ Available technologies:
 ## Resources
 
 - [AGH - WFIiS Title Pag template](https://www.overleaf.com/latex/templates/praca-dyplomowa/kbwcrcmczypy)
+
+## Legal Notes
+.cif files were obtained from https://www.crystallography.net/ 
