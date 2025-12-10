@@ -18,14 +18,14 @@ sys.path.insert(0, os.path.abspath('.'))
 import time
 
 project = 'FT2zXcXvX'
-author = '[AUTORZY]'
+author = 'Maciej Szeptuch'
 titlepage = {
         "faculty": "Fizyki i Informatyki Stosowanej",
         "year": "auto",
-        "groupID": "[NR GRUPY ĆWICZENIOWEJ]",
-        "team": "[NR ZESPOŁU]",
-        "title": "[TEMAT ĆWICZENIA]",
-        "number": "[NUMER ĆWICZENIA]",
+        "groupID": "2",
+        "team": "n/d",
+        "title": "Analiza Tlenku Żelaza przy pomocy programu PowderCell",
+        "number": "1",
 
         "taskDate": "auto", # [DATA LABORATORIUM]
         "creationDate": "auto", # [DATA POWSTANIA SPRAWOZDANIA]
@@ -122,6 +122,8 @@ myst_enable_extensions = [
         "strikethrough",
         "substitution",
         "tasklist",
+        #"raw_tex",
+        #"attrs",
         ]
 
 # just helper :-P

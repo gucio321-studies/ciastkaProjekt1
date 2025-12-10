@@ -41,9 +41,15 @@ Osiągnięto symetrię poczwórną przy obrocie o $90^\circ$.
 # Warunki wygaszeń systematyczych w grupie Fm-3m
 
 Związek `FeO` należy do grupy przestrzennej nr 225 (Fm-3m).
-Ta grupa posiada następujące warunki **odbicia**:
+Ta grupa posiada warunki **odbicia** przedstawione na rysunku {ref}`refl`.
+
+```{tip}
+zestawiono odczyt z programu PowderCell z danymi ze strony [img.chem.ucl.ac.uk](https://img.chem.ucl.ac.uk).
+```
 
 ```{figure} reflection_conditions.png
+:name: refl
+
 Warunki odbicia
 ```
 
@@ -65,6 +71,10 @@ H0H :    H=2n+1
 HH0 :    H=2n+1
 ```
 
+```{raw} latex
+\pagebreak
+```
+
 # Dyfrakcja
 
 Wykonano symulację dyfrakcji rentgenowskiej zgodnie z parametrami zadania:
@@ -81,12 +91,11 @@ Dyfraktogram uzyskany w programie PowderCell na sieci FeO.
 
 # Odległosći żelaza i tlenu
 
+Poniższy rysunek przedstawia długośći poszczególnych wiązań.
 
 ```{figure} bond_length.png
 Długość wiązania Fe-O w sieci krystalicznej FeO.
 ```
-
-
 
 # Odległośc między płaszczyznami
 
